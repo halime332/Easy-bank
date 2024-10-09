@@ -4,6 +4,6 @@
 
 -Responsive bir şekilde tasarlandı.
 
--,,
+-,
 
 <img scr="screen.gif"/>
